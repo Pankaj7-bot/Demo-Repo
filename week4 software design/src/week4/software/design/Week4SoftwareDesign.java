@@ -6,7 +6,7 @@ package week4.software.design;
 
 /**
  *
- * @author dakum
+ * @author dakum helloo brothere 
  */
 public class Week4SoftwareDesign {
 
